@@ -3,4 +3,4 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "leeloo_common.dtsi"
+#include "leeloo_micro_common.dtsi"
